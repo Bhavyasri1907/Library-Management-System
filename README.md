@@ -11,4 +11,6 @@ It ensures faster access to library data and improves overall library administra
 - Programming Language : C++/DBMS
 - Database : MySQL
 ## Screenshots
-![a](
+![a](https://github.com/Bhavyasri1907/Library-Management-System/blob/main/project/Screenshot%202026-01-05%20094124.png)
+
+![b](https://github.com/Bhavyasri1907/Library-Management-System/blob/main/project/Screenshot%202026-01-05%20110857.png)
