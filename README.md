@@ -13,4 +13,6 @@ It ensures faster access to library data and improves overall library administra
 ## Screenshots
 ![a](https://github.com/Bhavyasri1907/Library-Management-System/blob/main/project/Screenshot%202026-01-05%20094124.png)
 
+![c](https://github.com/Bhavyasri1907/Library-Management-System/blob/main/project/Screenshot%202026-01-05%20111511.png)
+
 ![b](https://github.com/Bhavyasri1907/Library-Management-System/blob/main/project/Screenshot%202026-01-05%20110857.png)
